@@ -1,0 +1,14 @@
+{
+    "name": "soura/010-php-mvc-framework-codeholic",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sourav Malo"
+        }
+    ],
+    "require": {}
+}
